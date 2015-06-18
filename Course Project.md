@@ -62,5 +62,5 @@ Note that the true rate, $\lambda$ is 5.
 <!--
 ---
 The report including the code for plots is available at
-http://https://github.com/vourinho/Statistical-Inference
+https://github.com/vourinho/Statistical-Inference
 -->
